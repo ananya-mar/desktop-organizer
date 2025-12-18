@@ -77,7 +77,7 @@ Organize Desktop
 
 Double-click the executable:
 ```text
-Organize Desktop
+organize_desktop.exe
 ```
 
 Undo Last Organization
