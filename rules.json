@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "name": "Images",
+      "extensions": [".jpg", ".png", ".jpeg",".jfif",".webp"],
+      "destination": "Images",
+      "priority": 1
+    },
+    {
+  "name": "Documents",
+  "extensions": [".pdf", ".docx", ".txt", ".pptx", ".xlsx",".ppt"],
+  "destination": "Documents",
+  "priority": 2
+    },
+    {
+      "name": "Code",
+      "extensions": [".py", ".java", ".c", ".cpp"],
+      "destination": "Code",
+      "priority": 3
+    }
+  ]
+}
